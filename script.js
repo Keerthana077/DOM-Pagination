@@ -34,7 +34,7 @@ table.classList.add('table-primary')
 let thead = document.createElement('thead')
 
 let trwo = document.createElement('tr')
-trwo.classList.add('text-center')
+// trwo.classList.add('text-center')
 
 let tr1 = document.createElement('th')
 tr1.setAttribute('scope','col')
